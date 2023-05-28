@@ -1,0 +1,72 @@
+[
+{
+"_id": "641ddcb8619037c97455f1ae",
+"ranking": 1,
+"name": "Trayvon BROMELL",
+"dob": "10 Jul 1995",
+"country": "USA",
+"score": 1446,
+"event": "100m",
+"__v": 0
+},
+{
+"_id": "641d91b4ec67d4d8f13cee5b",
+"ranking": 2,
+"name": "Fred KERLEY",
+"dob": "05 June 1996",
+"country": "USA",
+"score": 1438,
+"event": "100m",
+"__v": 0
+},
+{
+"_id": "641db23c3a40d08db9ec6339",
+"ranking": 3,
+"name": "Marvin BRACY",
+"dob": "15 DEC 1993",
+"country": "USA",
+"score": 1408,
+"event": "100m",
+"__v": 0
+},
+{
+"_id": "641db2ce1b021bd76dd2f713",
+"ranking": 4,
+"name": "Akani SIMBINE",
+"dob": "05 June 1996",
+"country": "RSA",
+"score": 1382,
+"event": "100m",
+"__v": 0
+},
+{
+"_id": "641db4f01b021bd76dd2f715",
+"ranking": 5,
+"name": "Christian COLEMAN",
+"dob": "06 MAR 1996",
+"country": "USA",
+"score": 1369,
+"event": "100m",
+"__v": 0
+},
+{
+"_id": "641ddd05619037c97455f1b4",
+"ranking": 6,
+"name": "Oblique SEVILLE",
+"dob": "16 MAR 2001",
+"country": "JAM",
+"score": 1351,
+"event": "100m",
+"__v": 0
+},
+{
+"_id": "6473476f0770e71ecaef0d44",
+"ranking": 7,
+"name": "Ferdinand OMANYALA",
+"dob": "16 MAR 2001",
+"country": "JAM",
+"score": 1351,
+"event": "100m",
+"__v": 0
+}
+]
